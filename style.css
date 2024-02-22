@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color:#D74949;
+    max-width: 1440px;
+    height: 684px;
+}
+
+.grey{
+    width: 1110px;
+    height: 615px;
+    background-color: #F3F3F3;
+    margin-left: 165px;
+}
+.foot{
+    width: 1440px;
+    height: 70px;
+    background-color: #3A3A3A;
+    color: #FFFFFF;
+    text-align: center;
+}
+.foot > p {
+    position: relative;
+    top: 25px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16.41px;
+}
+.one{
+    position: absolute;
+    top: 100px;
+    left: 215px;
+    width: 64px;
+    height: 16px;
+    
+}
+.one > h1{
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16.41px;
+}
+
+.two{
+    width: 1009px;
+    height: 19px;
+    position: absolute;
+    top: 128px;
+    left: 215px;
+}
+
+.two > h2 {
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 18.75px;
+    text-align: right;
+}
+
+.happy{
+    width: 1009px;
+    height: 23px;
+    position: absolute;
+    top: 154px;
+    left: 215px;
+}
+.happy > p{
+    font-weight: 700;
+    size: 20px;
+    line-height: 23.44px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#am{
+    color: #8F2727;
+}
+.layout{
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 215px;
+    left: 215px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
+
+.face{
+    width: 200px;
+    height: 185px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px 15px 0 0;
+}
+
+.small{
+    width: 18px;
+    height: 18px;
+    position: relative;
+    top: 30px;
+    left: 25px;
+}
+
+.small + img{
+    width: 18px;
+    height: 18px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+.name{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0.04em;
+    text-align: left;
+}
+.nam{
+    position: relative;
+    width: 64px;
+    height: 16px;
+    top: 10px;
+    left: 20px;
+}
+
+.role{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    text-align: left;
+}
+.rol{
+    font-weight: 300px;
+    font-size: 14px;
+    line-height: 16.41px;
+}
+.rol{
+    position: relative;
+    top: 17px;
+    left: 20px;
+}
+
